@@ -1,20 +1,20 @@
 return {
-	Token = "Coloque o token aqui",
+	Token = "956519165:AAFGp2R7M6bAY343PVooCVwgYeu8HO42Ibc",
 	allowed_updates = {"message", "edited_message", "callback_query"},
 	human_readable_version = '1.0',
 	source_code = 'https://github.com/viniciusvrc/MODERADORbot',
-	grupo_bot = 'https://t.me/joinchat/HRGbs1GJbUCmvmgt02ex8g',	
-	canal_bot = 'https://t.me/Moderadornews',
-	nome_bot = 'Moderadorbot',
-	channel = '@Moderadornews',
+	grupo_bot = 'https://t.me/joinchat/KNHccxQTG-14ozSpFhORBw',	
+	canal_bot = 'https://t.me/Fraviiu',
+	nome_bot = '@FraviinRobot',
+	channel = '@Fraviiu',
 	lang = 'pt_BR',
 	cmd = '^[/!#]',
 	db = 0,
 	-- END of CUSTOM APIs
-	superadmins = {ID}, -- COLOQUE SEU ID
+	superadmins = {684842099}, -- COLOQUE SEU ID
 	log = {
-		chat = ID, -- COLOQUE O ID DE UM GRUPO OU O SEU
-		admin = ID,-- CLOQUE UM ID DE USUARIO
+		chat = 1430297498, -- COLOQUE O ID DE UM GRUPO OU O SEU
+		admin = 684842099,-- CLOQUE UM ID DE USUARIO
 		stats = nil
 	},
 	bot_settings = {
